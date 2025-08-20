@@ -1,70 +1,163 @@
-Herramientas IA y Utilidades ✨
-Una aplicación móvil que combina el poder de la Inteligencia Artificial con utilidades esenciales para tu día a día, ofreciéndote soluciones innovadoras y prácticas directamente en la palma de tu mano.
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=herramientas.aivy" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.0.0-529c2d?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Descargas-10K%2B-333333?style=for-the-badge"/></a>
+</p>
 
-🚀 Tabla de Contenidos
-Herramientas IA y Utilidades
-Descripción
-Características
-Instalación
-Uso
-Estructura del Proyecto
-Tecnologías Utilizadas
-Créditos
-Contacto
+<picture><img align="left" height="20%" src="https://img.icons8.com/fluency/240/toolbox.png" width="20%"/></picture>
+<h1>Herramientas Aivy</h1>
+<h3>Todo lo que necesitas, en un solo lugar.</h3>
+<h5>La navaja suiza de utilidades para tu Android, diseñada por <a href="https://github.com/erasomlabs" target="_blank">@erasomlabs</a></h5>
+<br/>
+<a href="https://linktr.ee/erasomlabs"><img align="right" src="https://img.shields.io/badge/Contacto-%40erasomlabs-529c2d?style=for-the-badge&logo=linktree" style="width: 200px;"/></a>
+<br/> <br/> <br/> <br/>
 
-📝 Descripción
-Herramientas IA y Utilidades es una aplicación diseñada para simplificar diversas tareas mediante la integración de capacidades de Inteligencia Artificial y un conjunto de utilidades cotidianas. Ya sea que necesites asistencia inteligente, herramientas de productividad o soluciones rápidas, esta aplicación busca ser tu compañera digital indispensable.
+---
 
-Puedes encontrar la aplicación en Google Play Store: Herramientas IA y Utilidades en Google Play
+> [!IMPORTANT]
+> **Misión:** Proveer herramientas prácticas y ligeras todo-en-uno para usuarios con dispositivos de gama baja, enfocándose en bienestar emocional y salud mental.
+> **Visión:** Ser la app de utilidades más accesible, funcional y ligera del mercado latinoamericano.
 
-✨ Características
-Descubre las principales funcionalidades que hacen de Herramientas IA y Utilidades una herramienta poderosa:
+<br/>
 
-Asistencia inteligente: Funciones impulsadas por IA para ayudarte en diversas tareas.
+<img align="left" alt="downloads-folder" height="54" src="https://img.icons8.com/3d-fluency/94/downloads-folder.png" width="54"/><h2>Descarga</h2>
+<div align="center">
+<table>
+<thead>
+<tr>
+<th>Plataforma</th>
+<th>Página de Descarga</th>
+<th>Enlace Directo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" style="width: 80px;"/></td>
+<td><p><a href="https://play.google.com/store/apps/details?id=herramientas.aivy" target="_blank"><img alt="download-google-play" src="https://img.shields.io/badge/Descargar_para_Android-Google_Play-529c2d?style=for-the-badge&logo=android"/></a></p></td>
+<td rowspan="1"><p><a href="https://play.google.com/store/apps/details?id=herramientas.aivy" target="_blank"><img src="https://img.shields.io/badge/Google_Play-white?style=for-the-badge&logo=Google-Play&logoColor=414141" style="width: 150px;"/></a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
 
-Utilidades prácticas: Herramientas para el día a día, diseñadas para la eficiencia.
+<br/>
 
-Interfaz intuitiva: Diseño sencillo y fácil de usar para una experiencia fluida.
+<img align="left" alt="system-information" height="58" src="https://img.icons8.com/fluency/48/system-information.png" width="58"/><h2>Requisitos</h2>
+<center><table>
+<thead>
+<tr>
+<th></th>
+<th><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" style="width: 100px;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img height="60" src="https://img.icons8.com/fluency/96/android-os.png" style="float: left;" width="60"/><h4>Versión de Android</h4></td>
+<td>Android 5.0 (Lollipop) o superior. <br/><br/><b><i>Diseñada para funcionar de manera óptima en dispositivos de gama baja y media.</i></b></td>
+</tr>
+<tr>
+<td><img height="60" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-RAM-technology-and-devices-smashingstocks-flat-smashing-stocks.png" style="float: left;" width="60"/><h4>RAM</h4></td>
+<td><ul><li>1 GB (Mínimo)</li><li>2 GB (Recomendado)</li></ul></td>
+</tr>
+<tr>
+<td rowspan="1"><img height="60" src="https://img.icons8.com/3d-fluency/94/ssd.png" style="float: left;" width="60"/><h4>Almacenamiento</h4></td>
+<td><b><i>Menos de 15 MB de espacio libre. ¡Una app súper ligera!</i></b></td>
+</tr>
+</tbody>
+</table>
 
-Actualizaciones frecuentes: Mejoras y nuevas funcionalidades añadidas regularmente.
+<br/>
 
-🛠️ Instalación
-La aplicación está disponible en la tienda oficial de Google.
+<details>
+<summary><a href="#"><img height="60" src="https://img.icons8.com/color/96/wrench.png" style="float: left;" width="60"/><h1>&nbsp; &nbsp;Funcionalidades Incluidas</h1></a></summary>
 
-Pasos
-Abre la Google Play Store en tu dispositivo Android.
+> [!NOTE]
+> Herramientas Aivy es una caja de herramientas digital que agrupa múltiples utilidades para resolver problemas cotidianos sin necesidad de instalar decenas de apps. Su estilo es **funcional, compacto y accesible**.
 
-Busca "Herramientas IA y Utilidades" o haz clic directamente en el siguiente enlace:
-https://play.google.com/store/apps/details?id=herramientas.aivy&hl=es_CO
+### Herramientas de Productividad
+* **📝 Bloc de Notas:** Guarda ideas y recordatorios al instante.
+* **🔢 Calculadora Simple:** Operaciones básicas de forma rápida.
+* **🗓️ Lector de Códigos QR:** Escanea cualquier QR para acceder a enlaces, redes Wi-Fi y más.
+* **🔦 Linterna:** Acceso directo al flash de tu cámara para iluminar tu camino.
 
-Presiona el botón "Instalar" y espera a que la descarga e instalación se completen.
+### Utilidades del Dispositivo
+* **ℹ️ Información del Dispositivo:** Conoce los detalles de tu hardware, software y batería.
+* **🧹 Limpiador de Archivos Basura (Próximamente):** Libera espacio con un solo toque.
+* **📏 Nivel de Burbuja:** Asegúrate de que todo esté perfectamente alineado.
 
-Una vez instalada, abre la aplicación desde tu pantalla de inicio o el cajón de aplicaciones.
+### Conversores y Medidas
+* **🔄 Conversor de Unidades:** Convierte longitud, peso, temperatura y más.
+* **🕒 Cronómetro y Temporizador:** Mide el tiempo con precisión para cualquier actividad.
 
-🚀 Uso
-Una vez instalada, puedes empezar a usar Herramientas IA y Utilidades de inmediato.
+</details>
 
-Iniciar la aplicación
-Simplemente toca el ícono de "Herramientas IA y Utilidades" en tu dispositivo.
+<br/>
 
-Ejemplos de uso
-La aplicación ofrece diversas funciones que puedes explorar. Navega por las diferentes secciones para acceder a las herramientas de IA o a las utilidades disponibles. La interfaz te guiará para aprovechar al máximo cada característica.
+<details>
+<summary><a href="#"><img height="60" src="https://img.icons8.com/3d-fluency/94/help.png" style="float: left;" width="60"/><h1>&nbsp; &nbsp;Preguntas Frecuentes (FAQ)</h1></a></summary>
 
-💻 Tecnologías Utilizadas
-Esta aplicación aprovecha diversas tecnologías para su funcionamiento, destacando:
+**¿Por qué crear una app "todo-en-uno"?**
+- Para ahorrar espacio y recursos en tu dispositivo. En lugar de tener 5 o 6 apps separadas, Aivy te da las herramientas esenciales en un paquete súper ligero, ideal para celulares con almacenamiento o memoria limitados.
 
-Android SDK: El kit de desarrollo para aplicaciones Android.
-Inteligencia Artificial (IA): Implementaciones de IA para las funcionalidades inteligentes.
-APIs de Google: Uso de las APIs de Google para ciertas características (ver créditos).
-Kotlin / Java: Lenguajes principales de desarrollo para Android.
+**¿La aplicación es gratuita?**
+- Sí, Herramientas Aivy es completamente gratuita. Nuestro objetivo es ofrecer funcionalidad sin barreras.
 
-🙏 Créditos
-Un agradecimiento especial a:
+**¿Cómo protege mi privacidad?**
+- La app solo solicita los permisos estrictamente necesarios para que cada herramienta funcione (ej. permiso de cámara para la linterna y el lector QR). No recopilamos datos personales que no sean esenciales para su funcionamiento.
 
-Google: Por las poderosas herramientas y APIs de Inteligencia Artificial que han sido fundamentales en el desarrollo de las características inteligentes de esta aplicación.
+**¿Recibirá nuevas herramientas en el futuro?**
+- ¡Absolutamente! Estamos trabajando constantemente para añadir nuevas utilidades basadas en las sugerencias de nuestros usuarios, siempre manteniendo la app ligera y eficiente.
 
-📧 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos:
-linktr.ee/erasomlabs
+</details>
 
-Página de la App en Google Play: Herramientas IA y Utilidades
+<br/>
+
+<details>
+<summary><a href="#"><img height="60" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-credits-movie-theater-flaticons-lineal-color-flat-icons.png" style="float: left;" width="60"/><h1>&nbsp; &nbsp;Branding y Créditos</h1></a></summary>
+<p>Este es un proyecto desarrollado y mantenido por <b>@erasomlabs</b>, el pilar de desarrollo digital del ecosistema <b>@sebaserasom</b>.</p>
+
+<h4>Paleta de Colores</h4>
+<table>
+<thead>
+<tr>
+<th>Color</th>
+<th>Hex</th>
+<th>Previsualización</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verde Aivy</td>
+<td><code>#529c2d</code></td>
+<td style="background-color:#529c2d;"></td>
+</tr>
+<tr>
+<td>Gris Oscuro</td>
+<td><code>#333333</code></td>
+<td style="background-color:#333333;"></td>
+</tr>
+<tr>
+<td>Fondo Claro</td>
+<td><code>#F5F5DC</code></td>
+<td style="background-color:#F5F5DC;"></td>
+</tr>
+</tbody>
+</table>
+
+<h4>Tipografía</h4>
+<p>Herramientas Aivy utiliza las siguientes fuentes para un estilo funcional y accesible:</p>
+<ul>
+    <li><strong>Principal (Títulos):</strong> Montserrat</li>
+    <li><strong>Cuerpo de Texto:</strong> Montserrat</li>
+</ul>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/Si1wYmbE96ljLcoZxEAYU1GQ6-fyuifiZzfVlsdNbT_rmu2fcMeI-nj0BrU7z4XjqgY=w480-h960-rw" alt="Logo de erasomlabs" width="100"/>
+  <br/>
+  <a href="https://linktr.ee/erasomlabs" target="_blank">Visita erasomlabs</a> | <a href="https://github.com/erasomlabs" target="_blank">GitHub @erasomlabs</a>
+  <br/>
+  Hecho con ❤️ por erasomlabs
+</p>

@@ -1,55 +1,163 @@
-# Herramientas Aivy
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Herramientas Aivy - erasomlabs</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif; /* Puedes importar Roboto desde Google Fonts si lo deseas */
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #2c3e50; /* Azul oscuro para títulos */
+            font-family: 'Roboto Slab', serif; /* Puedes importar Roboto Slab */
+            border-bottom: 2px solid #556B2F; /* Verde Olivo para el subrayado */
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #D4A017; /* Ocre Dorado para el título principal */
+            border-bottom: none;
+        }
+        .header-section {
+            background-color: #5A7D9A; /* Azul Pizarra */
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .header-section p {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        .logo {
+            display: block;
+            margin: 0 auto 20px;
+            max-width: 200px; /* Ajusta si tienes un logo */
+        }
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .feature-item {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .feature-item strong {
+            color: #556B2F; /* Verde Olivo */
+        }
+        .play-store-badge {
+            display: block;
+            margin: 30px auto;
+            width: 200px;
+        }
+        .contact-info {
+            background-color: #e8f0f2;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .contact-info a {
+            color: #5A7D9A;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        pre {
+            background-color: #eee;
+            padding: 10px;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="header-section">
+        <h1>Herramientas Aivy</h1>
+        <p>Tu suite de utilidades ligeras todo-en-uno para dispositivos Android de gama baja.</p>
+        <p><strong>¡Todo lo que necesitas, en un solo lugar!</strong></p>
+    </div>
 
+    <p>Este repositorio contiene el código fuente de la aplicación **Herramientas Aivy**, un proyecto desarrollado bajo la marca <a href="https://linktr.ee/erasomlabs"><strong>@erasomlabs</strong></a>, dedicada al desarrollo digital y la optimización estratégica de la presencia online.</p>
 
+    <h2>💡 Misión</h2>
+    <p>Proveer herramientas prácticas y ligeras todo-en-uno para usuarios con dispositivos de gama baja, garantizando accesibilidad y funcionalidad sin comprometer el rendimiento.</p>
 
-**Tu suite de utilidades ligeras todo-en-uno para dispositivos Android de gama baja. [cite_start]¡Todo lo que necesitas, en un solo lugar!** [cite: 140]
+    <h2>✨ Visión</h2>
+    <p>Ser la aplicación de utilidades más accesible, funcional y ligera del mercado latinoamericano.</p>
 
-[cite_start]Este repositorio contiene el código fuente de la aplicación **Herramientas Aivy**, un proyecto desarrollado bajo la marca **@erasomlabs**, dedicada al desarrollo digital y la optimización estratégica de la presencia online[cite: 112, 114].
+    <h2>🚀 Funcionalidades Incluidas</h2>
+    <p>Herramientas Aivy se destaca por su versatilidad, ofreciendo una colección de utilidades esenciales en una sola aplicación para maximizar la eficiencia de tu dispositivo:</p>
+    <div class="features-grid">
+        <div class="feature-item">
+            <strong>📝 Bloc de Notas:</strong> Para capturar tus ideas al instante.
+        </div>
+        <div class="feature-item">
+            <strong>🎨 Bloc de Dibujo:</strong> Dibuja y garabatea libremente.
+        </div>
+        <div class="feature-item">
+            <strong>🗺️ Mapas:</strong> Navega y encuentra tu camino con facilidad.
+        </div>
+        <div class="feature-item">
+            <strong>🔍 Lector QR:</strong> Escanea códigos QR de forma rápida y sencilla.
+        </div>
+        <div class="feature-item">
+            <strong>💡 Panel LED:</strong> Convierte tu pantalla en un panel de anuncios luminoso.
+        </div>
+        <div class="feature-item">
+            <strong>💬 Creador de Links de WhatsApp:</strong> Genera enlaces directos para chatear sin guardar el número.
+        </div>
+        <div class="feature-item">
+            <strong>🧮 Conversor de Unidades:</strong> Convierte entre diferentes unidades de medida.
+        </div>
+        <div class="feature-item">
+            <strong>🧠 Link a una IA:</strong> Acceso rápido a una herramienta de inteligencia artificial.
+        </div>
+    </div>
 
-## [cite_start]💡 Misión [cite: 138]
-[cite_start]Proveer herramientas prácticas y ligeras todo-en-uno para usuarios con dispositivos de gama baja, garantizando accesibilidad y funcionalidad sin comprometer el rendimiento. [cite: 138]
+    <h2>🛠️ Tecnologías Utilizadas</h2>
+    <ul>
+        <li><strong>Lenguaje de Programación:</strong> Kotlin / Java (Por favor, especifica el que uses principalmente)</li>
+        <li><strong>Plataforma:</strong> Android</li>
+        <li><strong>Estilo Visual:</strong> Funcional, compacto, accesible</li>
+    </ul>
 
-## [cite_start]✨ Visión [cite: 139]
-[cite_start]Ser la aplicación de utilidades más accesible, funcional y ligera del mercado latinoamericano. [cite: 139]
+    <h2>📱 Descarga e Instalación</h2>
+    <p>Herramientas Aivy está disponible para su descarga gratuita en la Google Play Store.</p>
+    <a href="https://play.google.com/store/apps/details?id=herramientas.aivy&hl=es_CO" target="_blank">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Descargar en Google Play" class="play-store-badge">
+    </a>
 
-## 🚀 Características Principales
-
-* [cite_start]**Diseño Compacto y Funcional:** Interfaz intuitiva optimizada para el rendimiento en una amplia gama de dispositivos[cite: 149].
-* **Utilidades Esenciales:** Incluye herramientas prácticas para el uso diario (ej. [menciona 1-2 ejemplos de herramientas si las tienes definidas, como linterna, nivel, etc.]).
-* [cite_start]**Accesibilidad:** Diseñada pensando en la usabilidad y la ligereza[cite: 149].
-
-## 🛠️ Tecnologías Utilizadas
-
-* **Lenguaje de Programación:** Kotlin / Java (especifica el que uses)
-* **Plataforma:** Android
-* [cite_start]**Estilo Visual:** Funcional, compacto, accesible [cite: 149]
-
-## 📱 Descarga e Instalación
-
-Herramientas Aivy está disponible en la Google Play Store.
-
-[Botón o Enlace a la Play Store]
-[![Descargar en Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.yourcompany.aivytools) 
-[cite_start]*(Reemplaza `com.yourcompany.aivytools` con el ID real de tu aplicación en Play Store cuando esté publicada).* [cite: 142]
-
-## 👥 Contribuciones
-
-Agradecemos cualquier tipo de contribución. Si deseas colaborar con el desarrollo de Herramientas Aivy, por favor, sigue estos pasos:
-
-1.  Haz un "fork" de este repositorio.
+    <h2>👥 Contribuciones</h2>
+    <p>Agradecemos cualquier tipo de contribución para mejorar Herramientas Aivy. Si deseas colaborar con el desarrollo, por favor, sigue estos pasos:</p>
+    <pre><code>1.  Haz un "fork" de este repositorio.
 2.  Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
 3.  Realiza tus cambios y confírmalos (`git commit -m 'Añadir nueva característica X'`).
 4.  Sube tus cambios a tu rama (`git push origin feature/nueva-caracteristica`).
-5.  Abre un "Pull Request" describiendo tus cambios.
+5.  Abre un "Pull Request" (Solicitud de Extracción) describiendo tus cambios.</code></pre>
 
-## 📄 Licencia
+    <h2>📄 Licencia</h2>
+    <p>Este proyecto está bajo la Licencia [**Nombre de tu Licencia, ej., MIT License**]. Consulta el archivo <code>LICENSE</code> en este repositorio para más detalles.</p>
 
-Este proyecto está bajo la Licencia [Nombre de tu Licencia, ej., MIT License]. Consulta el archivo `LICENSE` para más detalles.
-
-## ✉️ Contacto
-
-Para soporte, preguntas o sugerencias, puedes contactar a:
-* [cite_start]**Juan Sebastián Eraso Meléndez:** sebastianerasom@gmail.com [cite: 8]
-* [cite_start]**@erasomlabs:** [https://linktr.ee/erasomlabs](https://linktr.ee/erasomlabs) [cite: 134]
-
----
+    <h2>✉️

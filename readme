@@ -1,59 +1,56 @@
 # 🚀 Herramientas Aivy
 
-**¡Tu suite de utilidades ligeras todo-en-uno para dispositivos Android de gama baja!**
+## Tu Suite Esencial de Utilidades Ligeras para Android
 
-![Herramientas Aivy App Screenshot](https://via.placeholder.com/800x450/E0F2F7/2C3E50?text=Captura+de+Pantalla+Herramientas+Aivy)
-*(Considera reemplazar la imagen de placeholder con una captura real de tu app para un mayor impacto visual.)*
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/Si1wYmbE96ljLcoZxEAYU1GQ6-fyuifiZzfVlsdNbT_rmu2fcMeI-nj0BrU7z4XjqgY=w480-h960-rw" alt="Logo de erasomlabs" width="150"/>
+</p>
 
-Este repositorio contiene el código fuente de la aplicación **Herramientas Aivy**, un proyecto desarrollado bajo la marca **[@erasomlabs](https://linktr.ee/erasomlabs)**, dedicada al desarrollo digital y la optimización estratégica de la presencia online.
+**Herramientas Aivy** es tu compañero ideal para dispositivos Android de gama baja, ofreciendo un conjunto de herramientas prácticas y eficientes en una sola aplicación. Desarrollada por **[@erasomlabs](https://linktr.ee/erasomlabs)**, nuestra misión es simplificar tu día a día con tecnología funcional y accesible.
 
 ---
 
-## 💡 Misión
+## 💡 Nuestra Misión
 
 Proveer herramientas prácticas y ligeras todo-en-uno para usuarios con dispositivos de gama baja, garantizando accesibilidad y funcionalidad sin comprometer el rendimiento.
 
-## ✨ Visión
-
-Ser la aplicación de utilidades más accesible, funcional y ligera del mercado latinoamericano.
-
 ---
 
-## 🌟 Funcionalidades Incluidas
+## ✨ Funcionalidades Incluidas
 
 Herramientas Aivy se destaca por su versatilidad, ofreciendo una colección de utilidades esenciales en una sola aplicación para maximizar la eficiencia de tu dispositivo:
 
-* **📝 Bloc de Notas:** Para capturar tus ideas al instante.
-* **🎨 Bloc de Dibujo:** Dibuja y garabatea libremente.
-* **🗺️ Mapas:** Navega y encuentra tu camino con facilidad.
-* **🔍 Lector QR:** Escanea códigos QR de forma rápida y sencilla.
-* **💡 Panel LED:** Convierte tu pantalla en un panel de anuncios luminoso.
-* **💬 Creador de Links de WhatsApp:** Genera enlaces directos para chatear sin guardar el número.
-* **🧮 Conversor de Unidades:** Convierte entre diferentes unidades de medida.
-* **🧠 Link a una IA:** Acceso rápido a una herramienta de inteligencia artificial.
+* **📝 Bloc de Notas:** Captura tus ideas, listas o recordatorios al instante.
+* **🎨 Bloc de Dibujo:** Expresa tu creatividad con un lienzo simple para garabatear o dibujar.
+* **🗺️ Mapas:** Navega y encuentra tu camino con facilidad, ideal para explorar o ubicar direcciones.
+* **🔍 Lector QR:** Escanea códigos QR de forma rápida y sencilla para acceder a información o enlaces.
+* **💡 Panel LED:** Convierte tu pantalla en un panel de anuncios luminoso personalizable.
+* **💬 Creador de Links de WhatsApp:** Genera enlaces directos para iniciar chats en WhatsApp sin necesidad de guardar el número de contacto.
+* **🧮 Conversor de Unidades:** Realiza conversiones rápidas entre diferentes unidades de medida de forma sencilla.
+* **🧠 Link a una IA:** Acceso rápido y directo a una herramienta de inteligencia artificial para consultas o tareas específicas.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
-
-* **Lenguaje de Programación:** Kotlin / Java (Por favor, especifica el que uses principalmente)
-* **Plataforma:** Android
-* **Estilo Visual:** Funcional, compacto, accesible
-
----
-
-## 📱 Descarga e Instalación
+## 📱 Descarga Herramientas Aivy
 
 Herramientas Aivy está disponible para su descarga gratuita en la Google Play Store.
 
 [![Descargar en Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png)](https://play.google.com/store/apps/details?id=herramientas.aivy&hl=es_CO)
 
+**Visita nuestro perfil de desarrollador en Google Play para descubrir más apps:**
+[Perfil de Desarrollador de erasomlabs en Google Play](https://play.google.com/store/apps/developer?id=erasomlabs)
 
 ---
 
+## 💖 Apoya el Desarrollo
+
+Si encuentras útil Herramientas Aivy y deseas apoyar el desarrollo continuo de esta y futuras aplicaciones de **erasomlabs**, ¡aceptamos con gratitud tus donaciones! Tu apoyo nos ayuda a mejorar y añadir nuevas funcionalidades.
+
+[Aquí puedes añadir un botón o enlace a tu plataforma de donaciones, por ejemplo: Buy Me a Coffee, Patreon, PayPal, etc.]
+---
 
 ## ✉️ Contacto
 
-Para soporte, donaciones, preguntas o sugerencias, puedes contactar a:
+Para preguntas, sugerencias o colaboraciones, puedes contactar a:
 
 * **@erasomlabs:** [https://linktr.ee/erasomlabs](https://linktr.ee/erasomlabs)

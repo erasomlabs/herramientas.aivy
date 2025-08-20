@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="120" src="https://play-lh.googleusercontent.com/Si1wYmbE96ljLcoZxEAYU1GQ6-fyuifiZzfVlsdNbT_rmu2fcMeI-nj0BrU7z4XjqgY=w480-h960-rw" width="120"/>
+  <img height="120" src="https://lh3.googleusercontent.com/NcjeRRvA5vl-Db219PxfZ9OdCq-LQzIcr3DRRmi0-txVoTCcooJYtaxAUX5o7YqRjNBsa22Wn2gtvnDbwVfzuto" width="120"/>
 </p>
 <h1 align="center">Herramientas, IA y Utilidades</h1>
 <p align="center">

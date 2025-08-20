@@ -1,0 +1,55 @@
+# Herramientas Aivy
+
+
+
+**Tu suite de utilidades ligeras todo-en-uno para dispositivos Android de gama baja. [cite_start]¡Todo lo que necesitas, en un solo lugar!** [cite: 140]
+
+[cite_start]Este repositorio contiene el código fuente de la aplicación **Herramientas Aivy**, un proyecto desarrollado bajo la marca **@erasomlabs**, dedicada al desarrollo digital y la optimización estratégica de la presencia online[cite: 112, 114].
+
+## [cite_start]💡 Misión [cite: 138]
+[cite_start]Proveer herramientas prácticas y ligeras todo-en-uno para usuarios con dispositivos de gama baja, garantizando accesibilidad y funcionalidad sin comprometer el rendimiento. [cite: 138]
+
+## [cite_start]✨ Visión [cite: 139]
+[cite_start]Ser la aplicación de utilidades más accesible, funcional y ligera del mercado latinoamericano. [cite: 139]
+
+## 🚀 Características Principales
+
+* [cite_start]**Diseño Compacto y Funcional:** Interfaz intuitiva optimizada para el rendimiento en una amplia gama de dispositivos[cite: 149].
+* **Utilidades Esenciales:** Incluye herramientas prácticas para el uso diario (ej. [menciona 1-2 ejemplos de herramientas si las tienes definidas, como linterna, nivel, etc.]).
+* [cite_start]**Accesibilidad:** Diseñada pensando en la usabilidad y la ligereza[cite: 149].
+
+## 🛠️ Tecnologías Utilizadas
+
+* **Lenguaje de Programación:** Kotlin / Java (especifica el que uses)
+* **Plataforma:** Android
+* [cite_start]**Estilo Visual:** Funcional, compacto, accesible [cite: 149]
+
+## 📱 Descarga e Instalación
+
+Herramientas Aivy está disponible en la Google Play Store.
+
+[Botón o Enlace a la Play Store]
+[![Descargar en Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.yourcompany.aivytools) 
+[cite_start]*(Reemplaza `com.yourcompany.aivytools` con el ID real de tu aplicación en Play Store cuando esté publicada).* [cite: 142]
+
+## 👥 Contribuciones
+
+Agradecemos cualquier tipo de contribución. Si deseas colaborar con el desarrollo de Herramientas Aivy, por favor, sigue estos pasos:
+
+1.  Haz un "fork" de este repositorio.
+2.  Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
+3.  Realiza tus cambios y confírmalos (`git commit -m 'Añadir nueva característica X'`).
+4.  Sube tus cambios a tu rama (`git push origin feature/nueva-caracteristica`).
+5.  Abre un "Pull Request" describiendo tus cambios.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia [Nombre de tu Licencia, ej., MIT License]. Consulta el archivo `LICENSE` para más detalles.
+
+## ✉️ Contacto
+
+Para soporte, preguntas o sugerencias, puedes contactar a:
+* [cite_start]**Juan Sebastián Eraso Meléndez:** sebastianerasom@gmail.com [cite: 8]
+* [cite_start]**@erasomlabs:** [https://linktr.ee/erasomlabs](https://linktr.ee/erasomlabs) [cite: 134]
+
+---

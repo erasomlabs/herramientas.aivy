@@ -49,7 +49,7 @@
 <tbody>
 <tr>
 <td><img height="60" src="https://img.icons8.com/fluency/96/android-os.png" style="float: left;" width="60"/><h4>Versión Mínima<h4></h4></h4></td>
-<td>Android 8.0 (Oreo) o superior.</td>
+<td>Android 5.0 o superior.</td>
 </tr>
 <tr>
 <td><img height="60" src="https://img.icons8.com/fluency/96/processor.png" style="float: left;" width="60"/><h4>SDK Objetivo<h4></h4></h4></td>
